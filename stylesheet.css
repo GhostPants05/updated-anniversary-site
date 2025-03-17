@@ -1,0 +1,83 @@
+h1{
+    color: white;
+    background-color: blueviolet;
+    height: 120px;
+    max-width: 100%;
+    font-family: Dancing Script;
+    text-align: center;
+}
+body{
+    background-color: lightblue;
+    font-family: PT serif;
+    font-size: 20px;
+}
+h2{
+    color: blue;
+    font-family: Dancing Script;
+    text-align: center;
+}
+.bear{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.frog{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.ily{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.turtle{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.spongebob{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.stand{
+    font-weight: 600;
+    font-size: x-large;
+    text-align: center;
+}
+.list1{
+    text-align: left;
+    font-size: larger;
+}
+.penguin{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+#minions{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+footer{
+    background-color: blueviolet;
+    color: aliceblue;
+    height: 60px;
+    max-width: 100%;
+    text-align: center;
+    font-size: xx-large;
+    font-family: Dancing Script;
+    
+}
+html{
+    background-color: lightblue;
+}
