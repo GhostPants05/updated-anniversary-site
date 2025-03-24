@@ -91,6 +91,8 @@ footer{
     text-align: center;
     font-size: xx-large;
     font-family: Dancing Script;
+    margin-top: auto;
+    
     
 }
 html{
@@ -101,4 +103,34 @@ button{
     border-radius: 20px;
     padding: 5px;
     box-shadow: 0px 3px 3px ;
+}
+.frog-running{
+    border: 10px solid;
+    border-color: paleturquoise;
+    border-radius: 20px;
+    padding: 15px;
+}
+.list1{
+    background-color: pink;
+    border-radius: 25px;
+    border: 10px solid;
+    border-color: paleturquoise;
+}
+.back{
+    position: relative;
+    left: 320px;
+    top: 40px;
+    bottom: 40px;
+}
+.yes{
+    position: relative;
+    left: 350px;
+    top: 5px;
+    
+    
+}
+.no{
+    position: relative;
+    left: 350px;
+    top: 5px;
 }
